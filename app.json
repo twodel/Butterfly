@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Butterfly",
+    "slug": "Butterfly",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Butterfly"
+}
