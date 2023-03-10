@@ -22,9 +22,9 @@ const SignIn = () => {
         style={{
           color: "#1d113d",
           fontSize: RFValue(22),
-          fontWeight: "bold",
           marginBottom: RFValue(18),
           marginTop: RFValue(40),
+          fontFamily:'Poppins-SemiBold',
         }}
       >
         Welcome back!

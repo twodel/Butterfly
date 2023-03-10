@@ -22,7 +22,7 @@ const SignUp = () => {
         style={{
           color: "#1d113d",
           fontSize: RFValue(20),
-          fontFamily:"Poppins-Regular",
+          fontFamily:"Poppins-SemiBold",
           fontWeight: "bold",
           marginBottom: RFValue(18),
         }}
