@@ -61,7 +61,7 @@ const SignUp = () => {
       <Btn
         textColor="white"
         bgColor={darkGreen}
-        style={{ width: RFValue(105), height: RFValue(50), fontSize: RFValue(16), }}
+        style={{fontSize: RFValue(16), }}
         btnLabel="Sign up"
         Press={() => alert("Sign in")}
       />
