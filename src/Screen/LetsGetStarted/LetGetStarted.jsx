@@ -10,7 +10,7 @@ const LetGetStarted = () => {
     <View>
         <View><Header /></View>
         <View style={{ alignItems: "center" }}>
-            <Text>Let's Get Started</Text>
+            {/* <Text>Let's Get Started</Text> */}
         </View>
         
     </View>

@@ -7,8 +7,8 @@ import LetGetStarted from './src/Screen/LetsGetStarted/LetGetStarted'
 export default function App() {
   return (
     <View style={styles.container}>
-      <LoginSign />
-      {/* <LetGetStarted /> */}
+      {/* <LoginSign /> */}
+      <LetGetStarted />
       <StatusBar style="auto" />
     </View>
   );
